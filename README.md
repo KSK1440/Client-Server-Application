@@ -1,12 +1,12 @@
-#Python Chat between client and server
+# Python Chat between client and server:
 Based on two separated programs: Chat client and Chat server
 
 These programs utilize Python programming language, socket programming, and the Transmission Control Protocol (TCP) to develop a straightforward chat application that enables users to communicate by sending messages to each other.
 
-Chat Client
+# Chat Client:
 The chat client allows users to connect to the chat server and exchange messages with other users. It provides a user-friendly text-based interface for chatting.
 
-Features
+# Features:
 1.Connects to the chat server and lets the user log in using a unique name.
 
 2.Asks for another name if the chosen name is already taken.
@@ -19,7 +19,7 @@ Features
 
 6.Receives messages from other users and displays them to the user.
 
-Usage
+# Usage:
 To run the chat client, execute the following command:
 
 python client.py <server_address> <server_port> Replace <server_address> and <server_port> with the appropriate values for your chat server.
