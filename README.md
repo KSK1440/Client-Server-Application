@@ -1,4 +1,4 @@
-Python Chat between client and server
+#Python Chat between client and server
 Based on two separated programs: Chat client and Chat server
 
 These programs utilize Python programming language, socket programming, and the Transmission Control Protocol (TCP) to develop a straightforward chat application that enables users to communicate by sending messages to each other.
